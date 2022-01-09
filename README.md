@@ -1,16 +1,25 @@
-### Hi there 👋
+### Fala galera, sou o Victor Hugo 👋
 
-<!--
-**vhparaujo/vhparaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estou aprendendo no momento Java.
+- :man_student: Sou estudante de Engenharia de Software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <div>
+  <a href="https://github.com/vhparaujo">
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=vhparaujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Victor-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
+  <img align="center" alt="Victor-PYTHON" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+</div>
+  
+##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/vhparaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/vhparaujo/vhparaujo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
