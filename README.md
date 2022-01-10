@@ -1,8 +1,6 @@
 ### Fala galera, sou o Victor Hugo 👋
 
-
-- 🌱 Estou aprendendo no momento Java.
-- :man_student: Sou estudante de Engenharia de Software. 
+- :man_student: Estudante de Engenharia de Software, entusiasta de TI e vontade enorme de aprender. 
 
 
  <div>
