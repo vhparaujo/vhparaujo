@@ -11,6 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Victor-PYTHON" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+ <img align="center" alt="Victor-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
 ##
