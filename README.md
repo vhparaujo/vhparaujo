@@ -1,6 +1,7 @@
 ### Fala galera, sou o Victor Hugo 👋
 
-- :man_student: Estudante de Engenharia de Software, entusiasta de TI e vontade enorme de aprender. 
+- :man_student: Software Engineer | iOS Developer
+- :man_student: Sempre com uma vontade enorme de aprender e desenvolver
 
 
  <div>
