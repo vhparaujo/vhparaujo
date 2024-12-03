@@ -9,7 +9,7 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=vhparaujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-<div style="display: inline_block" flex; gap: 10px><br>
+<div style="display: flex; gap: 10px">
  <img align="center" alt="Victor-Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
  <img align="center" alt="Victor-JS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="Victor-TS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
