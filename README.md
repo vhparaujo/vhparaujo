@@ -1,7 +1,7 @@
 ### Fala galera, sou o Victor Hugo 👋
 
 - 🧑‍💻 Software Engineer | iOS Developer
-- :man_student: Sempre com uma vontade enorme de aprender e desenvolver
+- Developing with Swift, React Native, JS
 
 
  <div>
