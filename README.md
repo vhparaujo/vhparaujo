@@ -10,12 +10,12 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Victor-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
- <img align="center" alt="Victor-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  <img align="center" alt="Victor-Swift" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
  <img align="center" alt="Victor-JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="Victor-TS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
  <img align="center" alt="Victor-ReactNative" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ <img align="center" alt="Victor-JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+ <img align="center" alt="Victor-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
 ##
