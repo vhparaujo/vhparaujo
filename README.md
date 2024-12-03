@@ -1,6 +1,6 @@
 ### Fala galera, sou o Victor Hugo 👋
 
-- :man_student: Software Engineer | iOS Developer
+- 🧑‍💻 Software Engineer | iOS Developer
 - :man_student: Sempre com uma vontade enorme de aprender e desenvolver
 
 
