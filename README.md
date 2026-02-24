@@ -7,9 +7,9 @@
 <div>
   <a href="https://github.com/vhparaujo">
     <img width="400em" height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=vhparaujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&token=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"/>
+    src="https://github-readme-stats.vercel.app/api?username=vhparaujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&token=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"/>
     <img width="400em" height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham&token=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"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham&token=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"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
