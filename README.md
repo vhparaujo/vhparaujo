@@ -4,10 +4,13 @@
 - Developing with Swift, React Native, JS
 
 
- <div>
+<div>
   <a href="https://github.com/vhparaujo">
-  <img width="400em" height="180em" src="https://github-readme-stats-victor.vercel.app/api?username=vhparaujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats-victor.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham"/>
+    <img width="400em" height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=vhparaujo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&token=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"/>
+    <img width="400em" height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhparaujo&layout=compact&langs_count=7&theme=gotham&token=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"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Victor-Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
